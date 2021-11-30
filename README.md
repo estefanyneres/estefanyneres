@@ -1,10 +1,9 @@
-<img src="banner/computer-illustration.png" width="350px" align="right" alt="notebook estefany">
+<img src="banner/computer-illustration.png" width="320px" align="right" alt="notebook estefany">
 
 ## Olá, eu sou a Estefany Neres! 💜
 
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
--  📍  São Paulo
 - 📚 Atualmente aprendendo HTML5, CSS3 e JavaScript
 
  <br>
