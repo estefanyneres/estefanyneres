@@ -2,7 +2,6 @@
 
 ## Olá, eu sou a Estefany Neres! 💜
 
-> Buscando conhecimento o tempo todo
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 -  📍  São Paulo
