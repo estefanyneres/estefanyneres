@@ -3,8 +3,8 @@
 ## Olá, eu sou a Estefany Neres! 💜
 
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-- 📚 Atualmente aprendendo HTML5, CSS3 e JavaScript
+- Estudante de Análise e Desenvolvimento de Sistemas  
+- Atualmente aprendendo JavaScript
 
  <br>
 <div align="left"> 
