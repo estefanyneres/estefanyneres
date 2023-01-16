@@ -13,8 +13,12 @@
 </div>
 
 ##
-
-
+<br>
+<div align="center">
+  <a href="https://github.com/estefanyneres">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=estefanyneres&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estefanyneres&layout=compact&langs_count=16&theme=midnight-purple"/>
+</div>
   
 <div align="center" style="display: inline_block"><br>
   <i class="devicon-illustrator-plain"></i>
