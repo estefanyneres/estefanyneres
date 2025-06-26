@@ -1,36 +1,65 @@
 <img src="banner/computer-illustration.png" width="320px" align="right" alt="notebook estefany">
 
-## Olá, eu sou a Estefany Neres! 💜
+## Olá, sou a Estefany Neres! 💜
+  > ✨ Curiosa, inquieta e sempre pronta para o próximo desafio.
 
 
-- Estudante de Análise e Desenvolvimento de Sistemas  
-- Atualmente aprendendo Java
+### 🚀 Trajetória e Atuação
 
+- Engenheira de Software Junior focada em backend, mas que vive fuçando o mundo DevOps como quem não quer nada (spoiler: quer sim)
+- Desenvolvimento de aplicações escaláveis e resilientes com Kotlin e Spring Boot
+- Orquestração de containers no AWS ECS (Fargate)
+- Mensageria com Apache Kafka e AWS SQS
+- Observabilidade com Datadog
+- Democratização de dados por meio da arquitetura Data Mesh
+- Construção de pipeline de dados utilizando AWS Glue, Glue Catalog, PySpark, Lambda, EventBridge e Athena
+- Implementação de camada de Data Quality (GDQ) para garantir maior confiabilidade das informações por meio de regras customizadas, promovendo uso seguro e consistente dos dados.
+- Utilização de outros serviços da AWS, incluindo Parameter Store, Keyspaces, CodeDeploy, AppConfig, IAM e CodePipeline
+- Documentação clara dos serviços e processos no GitHub Pages, promovendo compartilhamento de conhecimento e onboarding mais fluido para outras pessoas do time
+
+##
+
+### 🏅 Certificações
+
+- AWS Certified Cloud Practitioner  
+- AWS Certified Developer – Associate  
+
+##
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="left" style="display: inline_block"><br>
+  <i class="devicon-illustrator-plain"></i>
+  <img align="center" alt="Kotlin" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">   
+  <img align="center" alt="Gradle" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg">
+  <img align="center" alt="AWS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"> 
+  <img align="center" alt="Datadog" height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/datadog.svg">
+  <img align="center" alt="Grafana" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg">
+  <img align="center" alt="Terraform" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg">
+  <img align="center" alt="Insomnia" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg">
+  <img align="center" alt="Kafka" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg">          
+           
+</div>
+
+##
+
+### 📫 Onde me encontrar
  <br>
 <div align="left"> 
   <a href = "mailto:estefanyyneres@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/estefanyneres/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-##
+  
+  ##
 <br>
 <div align="center">
   <a href="https://github.com/estefanyneres">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=estefanyneres&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estefanyneres&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
-  
-<div align="center" style="display: inline_block"><br>
-  <i class="devicon-illustrator-plain"></i>
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
-  
-  ##
+
+<br/>
   
  <br>
   
