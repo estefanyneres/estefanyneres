@@ -3,18 +3,20 @@
 ## Olá, sou a Estefany Neres! 💜
   > ✨ Curiosa, inquieta e sempre pronta para o próximo desafio.
 
+  > 👾 Engenheira de Software Junior focada em Backend, mas que vive fuçando o mundo DevOps como quem não quer nada (spoiler: quer sim)
+
+##
 
 ### 🚀 Trajetória e Atuação
 
-- Engenheira de Software Junior focada em backend, mas que vive fuçando o mundo DevOps como quem não quer nada (spoiler: quer sim)
 - Desenvolvimento de aplicações escaláveis e resilientes com Kotlin e Spring Boot
 - Orquestração de containers no AWS ECS (Fargate)
 - Mensageria com Apache Kafka e AWS SQS
 - Observabilidade com Datadog
 - Democratização de dados por meio da arquitetura Data Mesh
 - Construção de pipeline de dados utilizando AWS Glue, Glue Catalog, PySpark, Lambda, EventBridge e Athena
-- Implementação de camada de Data Quality (GDQ) para garantir maior confiabilidade das informações por meio de regras customizadas, promovendo uso seguro e consistente dos dados.
-- Utilização de outros serviços da AWS, incluindo Parameter Store, Keyspaces, CodeDeploy, AppConfig, IAM e CodePipeline
+- Implementação da camada de Data Quality (GDQ) para garantir maior confiabilidade das informações por meio de regras customizadas, promovendo uso seguro e consistente dos dados.
+- Utilização de outros serviços da AWS como: Parameter Store, Keyspaces, CodeDeploy, AppConfig, IAM e CodePipeline
 - Documentação clara dos serviços e processos no GitHub Pages, promovendo compartilhamento de conhecimento e onboarding mais fluido para outras pessoas do time
 
 ##
