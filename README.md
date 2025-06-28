@@ -13,11 +13,13 @@
 - Orquestração de containers no AWS ECS (Fargate)
 - Mensageria com Apache Kafka e AWS SQS
 - Observabilidade com Datadog
+- Modernização de monolito para microsserviços, trazendo mais autonomia, resiliência e facilidade de manutenção
 - Democratização de dados por meio da arquitetura Data Mesh
 - Construção de pipeline de dados utilizando AWS Glue, Glue Catalog, PySpark, Lambda, EventBridge e Athena
-- Implementação da camada de Data Quality (GDQ) para garantir maior confiabilidade das informações por meio de regras customizadas, promovendo uso seguro e consistente dos dados.
-- Utilização de outros serviços da AWS como: Parameter Store, Keyspaces, CodeDeploy, AppConfig, IAM e CodePipeline
-- Documentação clara dos serviços e processos no GitHub Pages, promovendo compartilhamento de conhecimento e onboarding mais fluido para outras pessoas do time
+- Implementação de Data Quality (GDQ), com regras customizadas que garantem a integridade e consistência dos dados
+- Experiência com outros serviços da AWS como: Parameter Store, Keyspaces, CodeDeploy, AppConfig, IAM e CodePipeline
+- Documentação clara dos serviços no GitHub Pages, promovendo o compartilhamento de conhecimento e onboarding mais fluido do time
+
 
 ##
 
